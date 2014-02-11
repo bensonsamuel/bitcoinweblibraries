@@ -7,4 +7,4 @@ Not fully Tested, but looks good.
 
 Feel free to reach out for any questions/ custom payment pages.
 
-Please donate Bitcoin to 14SXjSnWUSY2mKUKY9Qg9n7roVchXajj9k if you find this project useful.
+Please donate Bitcoin to 14PdijB97eLf8J1xf8svUyvVSoLMnAmaRW if you find this project useful.
