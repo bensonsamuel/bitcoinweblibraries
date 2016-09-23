@@ -1,3 +1,6 @@
+NOT MAINTAINED
+
+
 Bitcoin Web Wallet Libraries
 ============================
 
